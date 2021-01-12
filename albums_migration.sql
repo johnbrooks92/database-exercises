@@ -11,3 +11,4 @@ CREATE TABLE albums(
                        genre VARCHAR(100),
                        PRIMARY KEY(id)
 );
+
